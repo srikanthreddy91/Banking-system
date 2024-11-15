@@ -1,0 +1,27 @@
+# IDE files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+
+# Compiled files
+target/
+build/
+*.class
+
+# Logs
+*.log
+logs/
+
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+*.properties
+!src/main/resources/application.properties
+
+# OS files
+.DS_Store
+Thumbs.db
