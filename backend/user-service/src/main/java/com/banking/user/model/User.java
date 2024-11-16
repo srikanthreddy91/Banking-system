@@ -4,14 +4,6 @@ import jakarta.persistence.*;
 import lombok.Data;
 import java.time.LocalDateTime;
 
-/**
- * Entity class representing a user in the banking system.
- * This class handles user information and authentication details.
- *
- * @author Your Name
- * @version 1.0
- * @since 2024-03-16
- */
 @Data
 @Entity
 @Table(name = "users")
