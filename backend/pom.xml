@@ -65,8 +65,11 @@
         </dependencies>
     </dependencyManagement>
 <<<<<<< HEAD
+<<<<<<< HEAD
 </project>
 =======
+=======
+>>>>>>> 0dba7dc45dc73eddc9d86ba8f2c0f77df5bf500e
 
     <build>
         <pluginManagement>
@@ -79,4 +82,7 @@
         </pluginManagement>
     </build>
 </project>
+<<<<<<< HEAD
 >>>>>>> develop
+=======
+>>>>>>> 0dba7dc45dc73eddc9d86ba8f2c0f77df5bf500e
